@@ -27,7 +27,7 @@ git config --global user.email "email@gmail.com"
 git config --global user.name "userName"
 ```
 
-## Iniciando repositório Git
+## Iniciando repositório
 
 ```bash 
 git init
