@@ -19,3 +19,4 @@ jupyter notebook
 ```
 
 Para parar o servidor jupiter notebook, apertar `ctrl+c`
+
